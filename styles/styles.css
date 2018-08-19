@@ -451,6 +451,9 @@ footer .copy{
 	}
 }
 @media screen and (max-width: 360px){
+	.main h1{
+		font-size: 30px;
+	}
 	.main .articulos .articulo{
 		width: 100%;
 	}
