@@ -440,6 +440,15 @@ footer .copy{
 	.main .paginacion{
 		justify-content: center;
 	}
+	.main .paginacion .pages{
+		margin:0;
+	}
+	.main .paginacion .atras{
+		margin-right: 10px;
+	}
+	.main .paginacion .adelante{
+		margin-left: 10px;
+	}
 }
 @media screen and (max-width: 360px){
 	.main .articulos .articulo{
